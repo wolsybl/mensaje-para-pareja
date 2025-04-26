@@ -23,7 +23,7 @@ const FinalPage = () => {
           <p className={`text-3xl md:text-4xl font-serif italic ${
             darkMode ? 'text-amber-200' : 'text-amber-800'
           }`}>
-            Te amo, mi amor.
+            Te amo, mi Cielo.
           </p>
         </div>
 

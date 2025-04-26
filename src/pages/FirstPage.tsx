@@ -27,7 +27,7 @@ const FirstPage = () => {
           p-6 rounded-lg backdrop-blur-sm
           border-l-4 ${darkMode ? 'border-amber-400/30' : 'border-amber-600/30'}
         `}>
-          Escuche una vez a alguien en Internet decir 'eres mi persona favorita' y de inmediato me pregunté... Quien es mi persona favorita? Solo hubo alguien que llegó a mi mente sin duda alguna, esa mujer delgada de pelo corto, piel canela y suave con unos <HighlightWord darkMode={darkMode} type="eyes">ojos oscuros qué brillan como la luna</HighlightWord> y me llenan de tanta alegría con solo verlos, esa personita que con escuchar su <HighlightWord darkMode={darkMode} type="voice">voz</HighlightWord> y verla <HighlightWord darkMode={darkMode} type="smile">sonreír</HighlightWord> me pone tan contento.
+          Escuche una vez a alguien en Internet decir "eres mi persona favorita" y de inmediato me pregunté... Quien es mi persona favorita? Solo hubo alguien que llegó a mi mente sin duda alguna, esa mujer delgada de pelo corto, piel canela y suave, con unos <HighlightWord darkMode={darkMode} type="eyes">ojos oscuros qué brillan como la luna</HighlightWord> y me llenan de tanta alegría con solo verlos, esa personita que con escuchar su <HighlightWord darkMode={darkMode} type="voice">voz</HighlightWord> y verla <HighlightWord darkMode={darkMode} type="smile">sonreír</HighlightWord> me pone tan contento.
         </div>
 
         <div className="flex justify-end mt-8">

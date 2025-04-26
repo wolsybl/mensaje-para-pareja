@@ -22,7 +22,7 @@ const ThirdPage = () => {
           border ${darkMode ? 'border-amber-400/20' : 'border-amber-600/20'}
           transform hover:scale-[1.02] transition-transform duration-500
         `}>
-          Esa mujer que con su mera presencia me hace sentir lo que ninguna otra persona puede... Puedo decir con toda seguridad que mi persona favorita eres <HighlightWord darkMode={darkMode}>tu mi amor</HighlightWord>.
+          Esa mujer que con su mera presencia me hace sentir lo que ninguna otra persona puede... Logro decir con toda seguridad que mi persona favorita eres <HighlightWord darkMode={darkMode}>tu mi amor</HighlightWord>.
         </div>
 
         <div className="flex justify-between mt-8">
